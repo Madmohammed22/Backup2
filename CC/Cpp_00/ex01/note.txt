@@ -1,0 +1,16 @@
+class MyAwesomePhoneBook
+{
+private:
+    /* data */
+public:
+    MyAwesomePhoneBook(/* args */);
+    ~MyAwesomePhoneBook();
+};
+
+MyAwesomePhoneBook::MyAwesomePhoneBook(/* args */)
+{
+}
+
+MyAwesomePhoneBook::~MyAwesomePhoneBook()
+{
+}
